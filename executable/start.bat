@@ -1,0 +1,1 @@
+java -Xmx1G -jar NEAT_Dinosaur.jar
